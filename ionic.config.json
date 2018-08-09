@@ -1,0 +1,12 @@
+{
+  "name": "New Ionic App",
+  "integrations": {},
+  "api_key": "ac9bf1ddd56f0b736e3758a9e5baef0bd1a68b9d3d5e3214",
+  "pro_id": "c3502518",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
